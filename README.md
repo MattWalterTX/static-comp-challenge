@@ -19,8 +19,7 @@
 
 ## Image of Desired Result
 
-<img src="./assets/static-comp-option1" alt="static-comp-option1">
-![static comp option 1] (assets/static-comp-option1.png)
+![static comp option 1] (assets/static-comp-option1.png?raw=true "Static Comp Option 1")
 
 ### Set Up
 1. Clone the repo
