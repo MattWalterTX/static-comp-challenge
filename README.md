@@ -19,7 +19,7 @@
 
 ## Image of Desired Result
 
-![static comp option 1] (assets/static-comp-option1.png?raw=true "Static Comp Option 1")
+![static comp option 1] (https://github.com/MattWalterTX/static-comp-challenge/issues/1#issue-1429018024)
 
 ### Set Up
 1. Clone the repo
