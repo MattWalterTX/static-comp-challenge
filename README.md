@@ -19,7 +19,7 @@
 
 ## Image of Desired Result
 
-![static comp option 1] (https://github.com/MattWalterTX/static-comp-challenge/issues/1#issue-1429018024)
+![static-comp-option1](https://user-images.githubusercontent.com/106847513/198901512-e0e186de-4bde-40a3-8f10-06c67cddb94a.png)
 
 ### Set Up
 1. Clone the repo
