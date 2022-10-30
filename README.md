@@ -11,7 +11,8 @@
 - This page has no functionality or features as it is a mock.
 
 ## Possible Future Extensions
-- None are required but could include adding log in and build options listed on the navigation bar with Javascript functionality to click through them.
+- I could not properly configure the individual card background images to be filtered properly without also effecting the child elements (arrow icon and view counter). Potential fix I am left with will require rebuilding that section of the cards and more manipulation of elements.
+- None are required by the specs but could include adding log in and build options listed on the navigation bar with Javascript functionality to click through them.
 
 ## Learning Goals
 - You’ll choose one static comp and to recreate. The objective is to build something that respects the integrity of the original design using only HTML and CSS.
